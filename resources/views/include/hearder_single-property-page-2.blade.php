@@ -1,0 +1,8 @@
+<div class="fullwidth-property-slider margin-bottom-65"> 
+	<a href="images/single-property-01.jpg" data-background-image="images/single-property-01.jpg" class="item mfp-gallery"></a>
+	<a href="images/single-property-02.jpg" data-background-image="images/single-property-02.jpg" class="item mfp-gallery"></a>
+	<a href="images/single-property-03.jpg" data-background-image="images/single-property-03.jpg" class="item mfp-gallery"></a>
+	<a href="images/single-property-04.jpg" data-background-image="images/single-property-04.jpg" class="item mfp-gallery"></a>
+	<a href="images/single-property-05.jpg" data-background-image="images/single-property-05.jpg" class="item mfp-gallery"></a>
+	<a href="images/single-property-06.jpg" data-background-image="images/single-property-06.jpg" class="item mfp-gallery"></a> 
+  </div>
